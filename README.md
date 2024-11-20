@@ -1,5 +1,35 @@
 # anonlang 实现😋😋😋😋
 
+
+
+
+
+## 编译器前端
+
+- 词法分析✡️`tokenizer.cpp`
+
+
+## how to use
+
+
+开发阶段debug测试
+
+
+
+```shell
+cmake -S . -B build
+cd build
+cmake --build .
+
+```
+
+
+
+
+
+
+
+
 ```
 fY(,'.`?d@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$BMb0Xx/)]<!llllll!>+?1/xunnr/{?l'.                            .........  
 C)"...lvW$$$$$$$$$$$$$$$$$$$$$$$$$@WkZn{>:'.                  .`";<?)j/--]->;^.                             ..  
@@ -49,21 +79,3 @@ _-!,;[p&n".. . .. -aJI.''...lX\"....... ,\0v! .!n*@$%#pUx/(?>~](cOdQ\->:!I.',zmu
 .........`}00-". ... IzW&cl'...i0J>      .`:?YpQnjjxrt/0M*v<^'^)Ul +ZU>''.."-t+[U|:uc:. ,jhc!.. ..           .."i>
 ```
 
-## 编译器前端
-
-- 词法分析✡️`tokenizer.cpp`
-
-
-## how to use
-
-
-开发阶段debug测试
-
-
-
-```cmake
-cmake -S . -B build
-cd build
-cmake --build .
-
-```
