@@ -1,0 +1,12 @@
+main( ) {
+ extrn a, b, c;
+ auto test_loop 100;
+ putchar(a); 
+ putchar(b); 
+ putchar(c); 
+ putchar('!*n');
+ while (test_loop>=0) 
+ {
+    test_loop=test_loop/2;
+ };
+}
